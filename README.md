@@ -1,0 +1,2 @@
+# utl_table_driven_processing_or_using_meta_data_to_drive_sql_processing
+Table driven processing or using meta data to drive sql processing.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
